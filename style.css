@@ -8,7 +8,8 @@ ol li {
 .exam {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-#table {
+#table, th, td {
+    border: 2px solid;
     line-height:200%
 }
 footer {
